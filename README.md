@@ -1,8 +1,12 @@
 # Ancient_Lizards
 
+[![Gameplay](./Media/test_photo_gameplay.jpg)](https://drive.google.com/file/d/1d7NmhOs89p4UHfpcOinwRO2ks8vYTnpD/view?usp=drive_link)
+
 # 2D Platformer Game Project Overview
 Project Description
 Our project is a 2D platformer game, where players navigate through levels, overcoming obstacles, and collecting bonuses. In this commit, we'll provide an overview of our game development process.
+
+![Test damage](./Media/Test_damage_player.gif)
 
 # Development Stages
 # 1. Conceptualization
@@ -22,9 +26,3 @@ Upon completion of all elements, we proceeded to the testing phase. This critica
 
 # Conclusion
 Our 2D platformer game is a result of meticulous planning, creative design, and diligent development. This commit serves as a snapshot of our journey, showcasing the dedication and effort invested in creating an immersive and enjoyable gaming experience.
-
-![Test damage](./Media/Test_damage_player.gif)
-
-[![Gameplay](./Media/test_photo_gameplay.jpg)](https://drive.google.com/file/d/1d7NmhOs89p4UHfpcOinwRO2ks8vYTnpD/view?usp=drive_link)
-
-
