@@ -1,8 +1,7 @@
 # Ancient_Lizards
+# [Video Gameplay](https://drive.google.com/file/d/1d7NmhOs89p4UHfpcOinwRO2ks8vYTnpD/view?usp=drive_link)
 
 ![Test damage](./Media/Test_damage_player.gif)
-
-# [Video Gameplay](https://drive.google.com/file/d/1d7NmhOs89p4UHfpcOinwRO2ks8vYTnpD/view?usp=drive_link)
 
 # 2D Platformer Game Project Overview
 Project Description
