@@ -25,6 +25,6 @@ Our 2D platformer game is a result of meticulous planning, creative design, and 
 
 ![Test damage](./Media/Test_damage_player.gif)
 
-[![Gameplay](./Media/test_photo_gameplay.jpg)](./Media/Gameplay_test.mp4)
+[![Gameplay](./Media/test_photo_gameplay.jpg)](https://drive.google.com/file/d/1d7NmhOs89p4UHfpcOinwRO2ks8vYTnpD/view?usp=drive_link)
 
 
