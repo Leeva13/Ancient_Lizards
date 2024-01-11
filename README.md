@@ -23,6 +23,8 @@ Upon completion of all elements, we proceeded to the testing phase. This critica
 # Conclusion
 Our 2D platformer game is a result of meticulous planning, creative design, and diligent development. This commit serves as a snapshot of our journey, showcasing the dedication and effort invested in creating an immersive and enjoyable gaming experience.
 
-[![Gameplay](https://drive.google.com/file/d/14mNfDLXen-th6zYPCLKUMS20PFvIoz_N/view?usp=drive_link)](https://drive.google.com/file/d/17A0STh-CrzCaJ1q1yn4ApsnFZHepDdJd/view?usp=drive_link)
+![Test damage](./Media/Test_damage_player.gif)
+
+[![Gameplay](./Media/test_photo_gameplay.jpg)](./Media/Gameplay_test.mp4)
 
 
